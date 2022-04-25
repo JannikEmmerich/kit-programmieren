@@ -1,0 +1,79 @@
+			      +-----------------+
+			      |  Editieraufgabe |
+			      +-----------------+
+
+Anhand des folgenden Textes sollen die wichtigsten Kommandos des
+Editors geuebt werden.  Dazu sind in den Text Editieranweisungen 
+eingestreut, die Sie mit Hilfe der Editorkommandos ausfuehren sollen.  
+Die Anweisungen sind in der folgenden Form gekennzeichnet:
+
+			  < Editieranweisung >
+
+Loeschen Sie jeweils nach Ausfuehrung einer dieser Anweisungen den 
+Anweisungstext.  Sie erhalten so am Ende einen lesbaren Text.
+
+=====================================================================
+< Loeschen Sie alle Zeilen oberhalb dieser Zeile. >
+< Schreiben Sie die naechste Zeile in Sperrschrift: D i e  M a d e >
+Die   Made
+< Passen Sie die Laenge des Strichs an die Ueberschrift an. >
+----------
+< Fuegen Sie eine Leerzeile ein. >
+< Springen Sie mit dem Cursor an das Ende der naechsten Zeile und >
+<  loeschen Sie mit der Backspace-Taste das Wort 'Rinde'.         >
+Hinter eines Baumes Rinde Rinde
+< Loeschen Sie das 4. Wort  >
+wohnt die Made Made mit dem Kinde.
+< Fuegen Sie hier eine Leerzeile ein. >
+Sie ist Witwe, denn der Gatte,
+den sie hatte, fiel vom Blatte.
+< Loeschen Sie die naechste Zeile. >
+den sie hatte, fiel vom Blatte.
+< Loeschen Sie ab dem 6. Wort den Rest der Zeile. >
+Diente so auf diese Weise so auf diese Weise
+einer Ameise als Speise.
+
+< Markieren Sie die beiden folgenden Zeilen als Block und loeschen >
+<  Sie diesen.                                                     >
+Eines Morgens sprach die Made:
+"Liebes Kind, ich sehe grade,
+< Markieren Sie die naechsten drei Zeilen als Block und verschieben >
+<  Sie diesen um 3 Zeilen nach unten.                               >
+den ich hol. So leb denn wohl!
+Halt, noch eins! Denk, was geschah,
+geh nicht aus, denk an Papa!"
+Eines Morgens sprach die Mode:
+"Liebes Kind, ich sehe grade,
+drueben gibt es frischen Kohl,
+
+< Markieren Sie die folgende Zeile und kopieren Sie sie hinter die    >
+<  Zeile 'oder verschlang die kleine fade'.  Loeschen sie die falsch  >
+< plazierte Zeile.                                                    >
+Made ohne Gnade. Schade!
+Also sprach sie oder entwich.--
+< Markieren Sie die 2 folgenden Zeilen und heben Sie die              >
+<  Blockmarkierung wieder auf.                                        >
+Made junior aber schlich
+hinterdrein; oder das war schlecht!
+Denn schon kam ein bunter Specht
+oder verschlang die kleine fade
+
+<  Ersetzen Sie in der naechsten Zeile jedes y durch i.               >
+Hynter eynes Baumes Rynde
+ruft die Made nach dem Kinde ...
+
+		    Heinz Erhardt
+< Springen Sie an den Anfang des Textes und suchen Sie nach dem Wort  >
+<  'Mode'.  Ersetzen Sie es ggf. durch 'Made'.                        >
+< Springen Sie an das Ende des Textes.  Suchen Sie von dort aus jedes >
+<  Auftreten des Wortes 'oder' und ersetzen Sie es durch 'und'.       >
+< Speichern Sie den markierten Text unter dem Namen 'made.txt' ab.    >
+<  Loeschen Sie aber zuvor alle verbleibenden Editieranweisungen.     >
+
+
+
+
+
+
+
+
